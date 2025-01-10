@@ -3,16 +3,17 @@
 ## Overview
 This is a Python project that demonstrates modular programming and script functionality.
 
+## Purpose
+TrendHive aims to showcase modular Python programming for educational purposes. It is designed to help developers understand how to structure their projects and use modular scripts effectively.
+
 ## Features
 - `say_hello` function in `hello.py`
 - Utility functions for addition and subtraction in `utilities.py`
 
-## How to Use
-1. Clone the repository.
-2. Run `python3 myscript.py` to execute the main script.
-3. Add your own modules in the `modules` folder.
+## Requirements
+- Python 3.x
+- pytest (for testing)
 
-## Testing
-Run tests using `pytest`:
+To install `pytest`, run the following command:
 ```bash
-pytest tests/
+pip install pytest
