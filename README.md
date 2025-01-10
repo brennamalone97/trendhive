@@ -12,17 +12,8 @@ TrendHive aims to showcase modular Python programming for educational purposes. 
 
 ## Requirements
 - Python 3.x
-- pytest (for testing)
+- `pytest` (for testing)
 
 To install `pytest`, run the following command:
 ```bash
 pip install pytest
-
-## Contributing
-
-We welcome contributions to TrendHive! To contribute, follow these steps:
-
-1. Fork this repository by clicking the "Fork" button at the top of this page.
-2. Clone your forked repository to your local system:
-   ```bash
-   git clone https://github.com/brennamalone97/trendhive.git
