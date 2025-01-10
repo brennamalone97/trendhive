@@ -17,4 +17,3 @@ TrendHive aims to showcase modular Python programming for educational purposes. 
 To install `pytest`, run the following command:
 ```bash
 pip install pytest
-
